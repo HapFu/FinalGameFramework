@@ -1,0 +1,13 @@
+[submodule "Assets/Script"]
+	path = Assets/Script
+	url = https://github.com/HapFu/UnityGameFramework_Script.git
+[submodule "Assets/R/UI"]
+	path = Assets/R/UI
+	url = https://github.com/HapFu/UnityGameFramework_UI.git
+[submodule "Assets/R/Config"]
+	path = Assets/R/Config
+	url = https://github.com/HapFu/UnityGameFramework_Config.git
+[submodule "Assets/R/Effect"]
+	path = Assets/R/Effect
+	url = https://github.com/HapFu/UnityGameFramework_Effect.git
+
