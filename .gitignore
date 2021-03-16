@@ -5,6 +5,8 @@
 !.gitignore
 !.keep
 !.gitmodules
+!LICENSE.md
+!README.md
 
 ## Track all unity project directories.
 !/Assets/

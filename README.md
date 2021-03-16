@@ -1,2 +1,41 @@
-# FinalGameFramework
-Define game development rules.
+# Unity GameFramework 简介
+
+## 框架说明
+
+Unity Game Framework 是一个基于 Unity 引擎的游戏框架，主要对游戏开发过程中常用模块进行了封装，很大程度地规范开发过程、加快开发速度并保证产品质量。
+
+--------------------------
+
+## 内置模块
+
+- 配置 (Config) - 提供配置数据表加载、解析功能。
+
+- 网络请求 (WebRequest) - 提供短链接的网络请求功能。
+
+- 声音 (Soud) - 提供声音和声音组管理的功能。
+
+- 界面 (UI) - 提供界面和界面组管理的功能。
+
+- 保存 (Save) - 提供保存功能。
+
+- 场景 (Save) - 提供场景加载、卸载功能。
+
+- 资源 (Resource) - 提供同步和异步资源加载功能。
+
+- 流程 (Procedure) - 提供游戏流程管理功能。
+
+- 对象池 (ObjectPool) - 提供对象池管理功能。
+
+- 网络 (Network) - Tcp/Udp 网络连接功能。
+
+- 本地化 (Localization) - 本地化功能。
+
+- 状态机 (StateMachine) - 状态机功能。
+
+- 事件 (Event) - 游戏逻辑监听、抛出事件功能。
+
+- 实体 (Entity) - 游戏物体实例化、销毁自动管理。
+
+- 下载 (Download) - 下载功能。
+
+- 调试 (Debug) - 游戏调试功能。
