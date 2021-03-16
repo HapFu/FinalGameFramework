@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCSessions Version="1" MinVersion="1">
+	<TSessionFolder>
+		<Items>
+			<TSessionFolder>
+				<Items>
+					<TTextCompareSession Value="testpanel.lua">
+						<LastModified Value="2020-11-24 16:34:49"/>
+						<Specs>
+							<Left Value="E:\UnityGameFramework\Assets\Temp\Panel\testpanel.lua"/>
+							<Right Value="E:\UnityGameFramework\Assets\Lua\Panel\testpanel.lua"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="mainform.txt &lt;--> mainform.lua">
+						<LastModified Value="2020-09-11 11:29:05"/>
+						<Specs>
+							<Left Value="E:\GameFramework\Assets\Workspace\Scripts\Editor\UIForm\mainform.txt"/>
+							<Right Value="E:\GameFramework\Assets\LuaFramework\Lua\ui\mainform.lua"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="uiassentity.txt &lt;--> uiassentity.lua">
+						<LastModified Value="2020-09-10 20:31:12"/>
+						<Specs>
+							<Left Value="E:\GameFramework\Assets\Workspace\Scripts\Editor\UIEntity\uiassentity.txt"/>
+							<Right Value="E:\GameFramework\Assets\LuaFramework\Lua\entity\uiassentity.lua"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="testform.txt &lt;--> testform.lua">
+						<LastModified Value="2020-09-10 20:02:47"/>
+						<Specs>
+							<Left Value="E:\GameFramework\Assets\Workspace\Scripts\Editor\UIForm\testform.txt"/>
+							<Right Value="E:\GameFramework\Assets\LuaFramework\Lua\ui\testform.lua"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="TestForm.txt &lt;--> TestForm.lua">
+						<LastModified Value="2020-09-10 19:18:46"/>
+						<Specs>
+							<Left Value="E:\GameFramework\Assets\Workspace\Scripts\Editor\UIForm\TestForm.txt"/>
+							<Right Value="E:\GameFramework\Assets\LuaFramework\Lua\ui\TestForm.lua"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="TestForm.txt &lt;--> testform.lua">
+						<LastModified Value="2020-09-10 19:16:38"/>
+						<Specs>
+							<Left Value="E:\GameFramework\Assets\Workspace\Scripts\Editor\UIForm\TestForm.txt"/>
+							<Right Value="E:\GameFramework\Assets\LuaFramework\Lua\ui\testform.lua"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="a.txt &lt;--> b.txt">
+						<LastModified Value="2020-09-10 11:59:31"/>
+						<Specs>
+							<Left Value="E:\a.txt"/>
+							<Right Value="E:\b.txt"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="新建文本文档.txt &lt;--> 新建文本文档 - 副本.txt">
+						<LastModified Value="2020-09-10 11:30:23"/>
+						<Specs>
+							<Left Value="E:\新建文本文档.txt"/>
+							<Right Value="E:\新建文本文档 - 副本.txt"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="help">
+						<LastModified Value="2020-09-10 11:27:44"/>
+						<Specs>
+							<Left Value="C:\Users\fty\help"/>
+						</Specs>
+					</TTextCompareSession>
+				</Items>
+			</TSessionFolder>
+		</Items>
+	</TSessionFolder>
+</BCSessions>

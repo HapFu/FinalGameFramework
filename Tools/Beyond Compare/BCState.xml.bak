@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCState Version="1" MinVersion="1">
+	<TBcState>
+		<FirstStartup Value="False"/>
+		<FormPositions>
+			<TViewFrame Value="-1824;219;-136;806"/>
+		</FormPositions>
+	</TBcState>
+	<TDirCompareState>
+		<LogHeight Value="0"/>
+		<ShowToolbar Value="False"/>
+	</TDirCompareState>
+	<THomeState>
+		<NewExpanded Value="True"/>
+		<SessionType Value="TTextCompareSession"/>
+	</THomeState>
+	<TTextCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="E:\UnityGameFramework\Assets\Temp\Panel\testpanel.lua"/>
+			<_1 Value="E:\GameFramework\Assets\Workspace\Scripts\Editor\UIForm\mainform.txt"/>
+			<_2 Value="E:\GameFramework\Assets\Workspace\Scripts\Editor\UIEntity\uiassentity.txt"/>
+			<_3 Value="E:\GameFramework\Assets\Workspace\Scripts\Editor\UIForm\TestForm.txt"/>
+			<_4 Value="E:\a.txt"/>
+			<_5 Value="E:\新建文本文档.txt"/>
+			<_6 Value="D:\code\Assets\LuaFramework\Lua\data\database.lua"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="E:\UnityGameFramework\Assets\Lua\Panel\testpanel.lua"/>
+			<_1 Value="E:\GameFramework\Assets\LuaFramework\Lua\ui\mainform.lua"/>
+			<_2 Value="E:\GameFramework\Assets\LuaFramework\Lua\entity\uiassentity.lua"/>
+			<_3 Value="E:\GameFramework\Assets\LuaFramework\Lua\ui\testform.lua"/>
+			<_4 Value="E:\b.txt"/>
+			<_5 Value="E:\新建文本文档 - 副本.txt"/>
+			<_6 Value="D:\code\Assets\LuaFramework\Lua\data\resourcedata.lua"/>
+			<_7 Value="D:\code\Assets\LuaFramework\Lua\data\database.lua"/>
+		</RightMRUSpecs>
+	</TTextCompareState>
+</BCState>

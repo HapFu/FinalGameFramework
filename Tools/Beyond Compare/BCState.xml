@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCState Version="1" MinVersion="1">
+	<TBcState>
+		<FirstStartup Value="False"/>
+		<FormPositions>
+			<TViewFrame Value="-1797;74;-109;661"/>
+		</FormPositions>
+	</TBcState>
+	<TDirCompareState>
+		<LogHeight Value="0"/>
+		<ShowToolbar Value="False"/>
+	</TDirCompareState>
+	<THomeState>
+		<NewExpanded Value="True"/>
+		<SessionType Value="TTextCompareSession"/>
+	</THomeState>
+	<TTextCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="E:\UnityGameFramework\ProjectSettings\EditorSettings.asset"/>
+			<_1 Value="E:\UnityGameFramework\ProjectSettings\EditorBuildSettings.asset"/>
+			<_2 Value="E:\UnityGameFramework\ProjectSettings\DynamicsManager.asset"/>
+			<_3 Value="E:\UnityGameFramework\ProjectSettings\AudioManager.asset"/>
+			<_4 Value="E:\UnityGameFramework\Packages\manifest.json"/>
+			<_5 Value="E:\UnityGameFramework\Assets\Temp\Panel\testpanel.lua"/>
+			<_6 Value="E:\GameFramework\Assets\Workspace\Scripts\Editor\UIForm\mainform.txt"/>
+			<_7 Value="E:\GameFramework\Assets\Workspace\Scripts\Editor\UIEntity\uiassentity.txt"/>
+			<_8 Value="E:\GameFramework\Assets\Workspace\Scripts\Editor\UIForm\TestForm.txt"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="F:\UnityGameFramework\ProjectSettings\EditorSettings.asset"/>
+			<_1 Value="F:\UnityGameFramework\ProjectSettings\EditorBuildSettings.asset"/>
+			<_2 Value="F:\UnityGameFramework\ProjectSettings\DynamicsManager.asset"/>
+			<_3 Value="F:\UnityGameFramework\ProjectSettings\AudioManager.asset"/>
+			<_4 Value="F:\UnityGameFramework\Packages\manifest.json"/>
+			<_5 Value="E:\UnityGameFramework\Assets\Lua\Panel\testpanel.lua"/>
+			<_6 Value="E:\GameFramework\Assets\LuaFramework\Lua\ui\mainform.lua"/>
+			<_7 Value="E:\GameFramework\Assets\LuaFramework\Lua\entity\uiassentity.lua"/>
+			<_8 Value="E:\GameFramework\Assets\LuaFramework\Lua\ui\testform.lua"/>
+		</RightMRUSpecs>
+	</TTextCompareState>
+</BCState>

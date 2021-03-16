@@ -10,8 +10,6 @@
 [submodule "Assets/R/Effect"]
 	path = Assets/R/Effect
 	url = https://github.com/HapFu/UnityGameFramework_Effect.git
-
-
 [submodule "Assets/R/Model"]
 	path = Assets/R/Model
 	url = https://github.com/HapFu/UnityGameFramework_Model.git
