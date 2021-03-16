@@ -1,7 +1,6 @@
 ## Ignore all files. Put it in header.
 /*
 
-
 ## Track .git files.
 !.gitignore
 !.keep
